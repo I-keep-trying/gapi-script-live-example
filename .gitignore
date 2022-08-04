@@ -4,3 +4,9 @@
 .env*
 
 client_secret.json
+
+logout-issue.txt
+
+login-requests.txt
+
+src/App2.js
